@@ -1,4 +1,3 @@
-# Nonergodic_adjustments_CEUS
 ###########################################################################################
 # Nonergodic site, source and path adjustments for Central and Eastern United States (CEUS)
 ###########################################################################################
